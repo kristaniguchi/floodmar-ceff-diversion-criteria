@@ -21,3 +21,6 @@
 #20% diversion scenario
 #40% diversion scenario
 #Returns a long-format dataset suitable for analysis and plotting.
+
+
+# FloodMAR_Stony.R is an example file for Stony Creek
