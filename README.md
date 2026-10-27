@@ -26,8 +26,9 @@ respective folder READMEs:
 - An unscripted, manual Excel post-processing step between the FF scenario
   definition stage and the scenario simulation stage (see
   `Code/02_scenario_simulation/README.md`)
-- [Placeholder for any similar gap noted once `01_ff_scenario_definition/`
-  is finalized]
+- The FF scenario definition folder (`Code/01_ff_scenario_definition/`)
+  includes worked examples for Elder Creek and Stony Creek only. A
+  corresponding script for Scott River is not included.
 
 ## Data Availability
 
