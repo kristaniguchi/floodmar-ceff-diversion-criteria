@@ -38,7 +38,7 @@ computed by the code but were not carried into the final analysis.
 
 ## Known gaps
 
-- The output of this stage was reshaped by hand in Excel before being read
+- The output of this stage was postprocessed by hand in Excel before being read
   into `02_scenario_simulation/`. This manual step is not scripted (see
   `../02_scenario_simulation/README.md`).
 - Worked examples are provided
