@@ -42,7 +42,7 @@ If you use this code or data, please cite:
 Taniguchi-Quan, K., J. Wiener, J. Ayers, B. Gibbons, and A. Le
 Compte-Santiago. 2026. *Operationalizing Functional Flows to Inform and
 Evaluate Flood-Managed Aquifer Recharge (Flood-MAR) Diversion Approaches.*
-Technical Report ####. Southern California Coastal Water Research Project.
+Technical Report 1501 Southern California Coastal Water Research Project.
 Costa Mesa, CA.
 
 ## Contact
